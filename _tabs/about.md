@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 7
 ---
 
 I'm Zechariah Nimon—a computer scientist with over 8 years of experience building thoughtful, scalable solutions across engineering, analytics, machine learning, and design. I enjoy tackling complex problems and creating intuitive, elegant solutions.
