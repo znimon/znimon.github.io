@@ -15,6 +15,11 @@
   font-family: 'Roboto', sans-serif;
 }
 
+#back-to-top {
+  bottom: 6rem;
+  right: 1.9rem;
+}
+
 @media (prefers-color-scheme: dark) {
     html:not([data-mode]), html[data-mode=dark] {
         color-scheme: dark;
