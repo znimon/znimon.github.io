@@ -1,7 +1,7 @@
 ---
 title: Coffee
 icon: fas fa-mug-saucer
-order: 4
+order: 3
 ---
 
 Enjoying the posts? Keep em brewing:

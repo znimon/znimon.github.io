@@ -1,7 +1,7 @@
 ---
 title: Georgia Tech
 icon: fas fa-graduation-cap
-order: 3
+order: 2
 ---
 
 {% assign gardening_posts = site.categories.GeorgiaTech %}
