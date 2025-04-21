@@ -1,12 +1,30 @@
+<script>
+  // Pass session flag into JS so we can conditionally render the popup
+  const showBmcPopup = !sessionStorage.getItem('bmc_widget_popup_shown');
+  if (showBmcPopup) {
+    sessionStorage.setItem('bmc_widget_popup_shown', 'true');
+  }
+</script>
+
+{% raw %}
 <script
   data-name="BMC-Widget"
   data-cfasync="false"
   src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
   data-id="znimon"
   data-description="Support my work!"
-  data-message="Enjoying the posts? Treat me to a coffee"
   data-color="#B2A368"
   data-position="Right"
   data-x_margin="22"
-  data-y_margin="22">
+  data-y_margin="22"
+  id="bmc-script">
 </script>
+<script>
+  // Remove popup message if already shown
+  if (!showBmcPopup) {
+    document.getElementById('bmc-script').removeAttribute('data-message');
+  } else {
+    document.getElementById('bmc-script').setAttribute('data-message', 'Enjoying the posts? Treat me to a coffee');
+  }
+</script>
+{% endraw %}
