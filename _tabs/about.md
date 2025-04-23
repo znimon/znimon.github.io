@@ -3,11 +3,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Zechariah Nimon, a computer scientist with over 8 years of experience building thoughtful, scalable solutions across engineering, analytics, machine learning, and design. I enjoy tackling complex problems and creating elegant solutions.
+I'm Zak Nimon, a computer scientist with over 8 years of experience across engineering, analytics, machine learning, and design. I enjoy tackling complex problems and creating elegant solutions.
 
 
 ## Why This Site?
-
 
 This site is a place for me to:
 
@@ -19,10 +18,10 @@ This site is a place for me to:
 
 ## Professional Experience
 
-- **Apple — Senior Data Scientist**  
-*April 2020 – Present | Cupertino, CA*
+- **Apple, Senior Data Scientist**  
+*April 2020 - Present | Cupertino, CA*
 
-- **Capital One — Principal Data Analyst**  
+- **Capital One, Principal Data Analyst**  
 *August 2017 – April 2020 | McLean, VA*
 
 ---
