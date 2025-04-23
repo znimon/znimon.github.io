@@ -49,6 +49,5 @@ This site is a place for me to:
 
 ## Contact
 
-Feel free to reach out:
-
+- 💼 [linkedin](www.linkedin.com/in/znimon) 
 - 📧 [znimon@gmail.com](mailto:znimon@gmail.com)
