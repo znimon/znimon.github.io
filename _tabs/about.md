@@ -40,10 +40,14 @@ This site is a place for me to:
 ---
 
 ## Beyond Work
-- **Game Development**: Designing and playing games
-- **Cycling**: Exploring new road / trails and enjoying the outdoors.
-- **Gardening**: Nuturing plants and enjoying nature.
-- **Tennis**: Trying to keep it calm.
+- **Game Development**  
+  *Designing and playing games*
+- **Cycling**  
+  *Exploring and enjoying the outdoors*
+- **Gardening**  
+  *Nuturing plants*
+- **Tennis**  
+  *Trying to keep it calm*
 
 ---
 
