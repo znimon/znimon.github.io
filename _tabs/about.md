@@ -31,13 +31,13 @@ This site is a place for me to:
 *Designing and playing games*
 
 **🌱 Gardening**  
-Pulled one weed and now I live here
+植える
 
 **🚴 Cycling**  
-*Nothing like a climb to make you reconsider every life choice*
+*Straße, Sonne, Geschwindigkeit*
 
 **🎾 Tennis**  
-*Trying to keep it calm*
+*Service avec le sourire*
 
 ---
 
