@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Zak Nimon, a computer scientist with over 8 years of experience across engineering, analytics, machine learning, and design. I enjoy tackling complex problems and creating elegant solutions.
+I'm Zak Nimon, a computer scientist with over 7 years of experience across engineering, analytics, and machine learning. I enjoy tackling complex problems and finding elegant solutions.
 
 
 ## Why This Site?
@@ -18,41 +18,31 @@ This site is a place for me to:
 
 ## Professional Experience
 
-- **Apple, Senior Data Scientist**  
-*April 2020 - Present | Cupertino, CA*
+🔒 Access to my resume is **restricted** for privacy. Please [contact me](http://127.0.0.1:4000/about/#contact) for the password to view.
 
-- **Capital One, Principal Data Analyst**  
-*August 2017 – April 2020 | McLean, VA*
-
----
-
-## Education
-
-- **Georgia Institute of Technology**  
-  *MS in Computer Science, Machine Learning (Expected December 2025)*
-
-- **Ohio State University**  
-  *BS in Chemical Engineering, cum laude*
-
-- **Martin-Luther Universitaet**  
-  *Research in Computer Vision and Geospacial Modeling*
+[📄 Download Resume (Password Required)](https://drive.google.com/file/d/1yL-cG2VavwejphKTN1jJHCcjjqbnvon9/view?usp=sharing)  
+<sub><i>Last updated: May 2025</i></sub>
 
 ---
 
 ## Beyond Work
-- **Game Development**  
-  *Designing and playing games*
-- **Cycling**  
-  *Exploring and enjoying the outdoors*
-- **Gardening**  
-  *Nuturing plants*
-- **Tennis**  
-  *Trying to keep it calm*
+
+**🎮 Game Development**  
+*Designing and playing games*
+
+**🚴 Cycling**  
+*Exploring the outdoors*
+
+**🌱 Gardening**  
+*Learning patience one plant at a time*
+
+**🎾 Tennis**  
+*Trying to keep it calm*
 
 ---
 
 ## Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/znimon)
-- 📧 [znimon@gmail.com](mailto:znimon@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/znimon)  
+📧 [znimon@gmail.com](mailto:znimon@gmail.com)
 
