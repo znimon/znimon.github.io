@@ -30,11 +30,11 @@ This site is a place for me to:
 **🎮 Game Development**  
 *Designing and playing games*
 
-**🚴 Cycling**  
-*Exploring the outdoors*
-
 **🌱 Gardening**  
-*Learning patience one plant at a time*
+Pulled one weed and now I live here
+
+**🚴 Cycling**  
+*Nothing like a climb to make you reconsider every life choice*
 
 **🎾 Tennis**  
 *Trying to keep it calm*
