@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Zak Nimon, a computer scientist with over 7 years of experience across engineering, analytics, and machine learning. I enjoy tackling complex problems and finding elegant solutions.
+I'm Zak Nimon, a computer scientist with over 7 years of experience across engineering, analytics, and machine learning. I enjoy complex problems and elegant solutions.  
 
 
 ## Why This Site?
