@@ -24,7 +24,7 @@ A few illustrative use cases for real-time sentiment analysis:
 - **Commerce**: Detect shifts in customer sentiment after a new product version release
 
 ### Features
-- 🚀 Low‑latency ML inference behind an API (FastAPI).
+- 🚀 Low‑latency ML inference behind an API (FastAPI + Uvicorn).
 - ⚡ Caching for cost + performance benefits (Redis).
 - 📊 Instrumentation (Prometheus metrics, Grafana dashboards).
 - 📦 Reproducible deployment (Docker).
