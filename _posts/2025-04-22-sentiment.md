@@ -31,7 +31,7 @@ A few illustrative use cases for real-time sentiment analysis:
 
 ### Architecture Diagram
 
-![Architecture Diagram](https://res.cloudinary.com/de8dxxflb/image/upload/v1752689072/architecture_t0ghbs.png){: w="600" }
+![Architecture Diagram](https://res.cloudinary.com/de8dxxflb/image/upload/v1752765174/arch_diagram_r1uh90.png){: w="600" }
 
 ---
 
