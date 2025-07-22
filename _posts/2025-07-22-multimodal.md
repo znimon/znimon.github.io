@@ -73,7 +73,7 @@ No matter the modality, the key idea is that the input information becomes a bun
 - **Best for:** Tasks needing tight coupling, like visual dialog or referring‑expression grounding.
 
 #### Dual Encoders with Late Fusion (Contrastive Alignment)
-- Two independent encoders map each modality into a shared embedding space, trained with a contrastive loss so matching pairs land close together (e.g., CLIP).  
+- Two independent encoders map each modality into a shared embedding space, trained with a contrastive loss so matching pairs land close together (e.g., [CLIP](https://www.youtube.com/watch?v=KcSXcpluDe4&ab_channel=Computerphile)).  
 - Fast similarity search, ideal for scanning millions of image–text pairs.  
 - **Best for:** Retrieval, ranking, recommendation.
 
