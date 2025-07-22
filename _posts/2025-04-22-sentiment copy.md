@@ -1,6 +1,6 @@
 ---
 title: "Multimodal AI Models"
-date: "2025-07-21 00:00:00 -0600"
+date: "2025-07-22 00:00:00 -0600"
 tags: [ML, Machine Learning]
 image:
   path: https://res.cloudinary.com/de8dxxflb/image/upload/c_pad,w_1200,h_630/v1753113538/multi_modal_vqwwdt.png
