@@ -78,7 +78,7 @@ No matter the modality, the key idea is that the input information becomes a bun
 - **Best for:** Retrieval, ranking, recommendation.
 
 #### 🧩 Putting It Together: Technique Mix
-Modern systems often mix these techniques. For example, a CLIP dual encoder creates vision embeddings that are then fed to an LLM as unified tokens or via a cross‑attention adapter.
+Modern systems often mix these techniques. For example, a [CLIP](https://www.youtube.com/watch?v=KcSXcpluDe4&ab_channel=Computerphile) dual encoder creates vision embeddings that are then fed to an LLM as unified tokens or via a cross‑attention adapter.
 
 ---
 
